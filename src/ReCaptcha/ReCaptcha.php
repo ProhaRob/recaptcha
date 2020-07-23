@@ -43,7 +43,7 @@ class ReCaptcha
      * Version of this client library.
      * @const string
      */
-    const VERSION = 'php_1.2.4_b';
+    const VERSION = 'php_1.2.6';
 
     /**
      * URL for reCAPTCHA siteverify API
